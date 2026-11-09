@@ -1,0 +1,9 @@
+node_modules/
+output/
+dist/
+artifacts/
+.playwright-mcp/
+playwright-report/
+test-results/
+.vscode/mcp.json
+
